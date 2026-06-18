@@ -274,7 +274,7 @@ class PrasannaB:
 
 <br/><br/>
 
-*"The sea is vast and full of opportunity — keep navigating. 🗺️"*
+*"you have no idea how high I can fly. 🗺️"*
 
 </div>
 
