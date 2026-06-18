@@ -155,7 +155,7 @@ class PrasannaB:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasannab4362&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prasannab4362&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
